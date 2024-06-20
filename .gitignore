@@ -1,0 +1,3 @@
+#ignore cctools
+cctools/
+cctools/*/

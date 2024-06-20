@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # ALQAAHIRA LOCAL file 6611402 configurable multilib architectures
 # This recursive function generates all of the pairwise combinations from a
 # list of multilib options. The result is suitable for a multilib

@@ -35,9 +35,9 @@ Boston, MA 02110-1301, USA.  */
 #ifndef SAFE_CTYPE_H
 #define SAFE_CTYPE_H
 
-#ifdef isalpha
- #error "safe-ctype.h and ctype.h may not be used simultaneously"
-#endif
+//#ifdef isalpha
+// #error "safe-ctype.h and ctype.h may not be used simultaneously"
+//#endif
 
 /* Determine host character set.  */
 #define HOST_CHARSET_UNKNOWN 0
